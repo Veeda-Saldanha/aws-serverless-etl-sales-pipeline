@@ -1,8 +1,17 @@
-# Project Screenshots
+## Screenshots
 
-This folder contains screenshots of the AWS services used in the project:
+### AWS Lambda
 
-- AWS Lambda
-- Amazon S3
-- AWS Glue Crawler
-- Amazon Athena
+![AWS Lambda](screenshots/lambda-function.png)
+
+### Amazon S3
+
+![Amazon S3](screenshots/aws-s3.png)
+
+### AWS Glue Crawler
+
+![AWS Glue Crawler](screenshots/glue-crawler.png)
+
+### Amazon Athena
+
+![Amazon Athena](screenshots/athena-query.png)
